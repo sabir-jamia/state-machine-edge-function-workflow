@@ -1,0 +1,6 @@
+{
+  "deno.enable": true,
+  "deno.enablePaths": ["netlify/edge-functions"],
+  "deno.importMap": ".netlify/edge-functions-import-map.json",
+  "deno.path": "C:\\Users\\mohammadsabir\\AppData\\Roaming\\netlify\\Config\\deno-cli\\deno.exe"
+}
